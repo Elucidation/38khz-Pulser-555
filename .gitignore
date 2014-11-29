@@ -1,3 +1,7 @@
+
+# Ignore partial save docs in windows
+~*
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
